@@ -1,13 +1,3 @@
-# Skip List Project - Advanced Algorithms Individual Challenge
-
-* **Student**: Tommaso Tosca
-* **Student ID**: 10804131
-* **Course**: Advanced Algorithms and Parallel Programming (095946)
-* **Academic Year**: 2026-2027
-* **Language**: C17 & C++17 
-
----
-
 ## Description
 
 This project is my implementation of a randomized Skip List in C17 for signed 64-bit integer keys (`int64_t`).
